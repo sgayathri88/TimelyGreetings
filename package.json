@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "TimelyGreetings",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "An application that automatically sends birthday greetings to your friends and family",
   "engines": {
     "node": ">= 7.0.0"
   },
