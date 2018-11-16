@@ -1,5 +1,5 @@
 {
-  "name": "TimelyGreetings",
+  "name": "timelygreetings",
   "version": "1.0.0",
   "description": "An application that automatically sends birthday greetings to your friends and family",
   "engines": {
